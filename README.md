@@ -1,11 +1,6 @@
 # CodePath-CYB102--Project-2  
 **Project monitoring file modifications using the Linux Audit daemon to detect unauthorized changes.**  
 
-# Repository Name
-
-This repository contains the code and documentation for various cybersecurity projects, including network traffic analysis using `.pcap` files in Wireshark and file monitoring with the Linux Audit daemon. It showcases my experience with security tools and techniques to identify and analyze malicious activity, with a focus on Business Email Compromise (BEC) detection and system file integrity monitoring.
-
-
 ## **Let's wget This Bread!**  
 
 ### **Project Overview**  
